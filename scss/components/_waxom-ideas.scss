@@ -1,0 +1,60 @@
+.ideas {
+	background-color: #fbfaf8;
+}
+
+.ideas-h {
+	padding-top: 5rem;
+	text-align: center;
+	color: #555555;
+}
+
+
+.ideas-p {
+	padding-top: 1.5rem;
+	text-align: center;
+	color: #8a8b8d;
+}
+
+.purchase {
+	width: 100%;
+	padding: 2rem 0 1.2rem 0;
+	background-image: url("../img/purchase.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+	.purchase-left {
+		padding: 0;
+
+		.purchase-h {
+			color: #555555;
+		}
+
+		.purchase-p {
+			margin-top: 1rem;
+			color: #555555;
+		}
+
+	}
+
+	.purchase-right {
+		padding: 0;
+
+		.purchase-btn {
+			margin-top: 1rem;
+			border-color: #998675;
+			background-color: #998675;
+			color: #3a2921;
+		}
+
+		.purchase-btn:hover {
+			background-color: transparent;
+			border-color: #998675;
+			color: #998675;
+			-o-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+			-ms-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+			transition: background 0.3s linear 0s, color 0.3s linear 0s;
+		}
+
+	}
+}

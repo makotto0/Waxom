@@ -1,0 +1,46 @@
+.card:hover {
+	border: 2px solid #3a2921;
+	-o-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	-ms-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	transition: background 0.3s linear 0s, color 0.3s linear 0s;
+}
+
+.card-top {
+	margin-top: 3rem;
+	margin-bottom: 0.7rem;
+
+}
+.card-img-top {
+		width: 100%;
+}
+
+.card-block {
+	background-color: #fbfaf8;
+}
+
+.card-block:hover {
+	background-color: #3a2921;
+	-o-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	-ms-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	transition: background 0.3s linear 0s, color 0.3s linear 0s;
+}
+
+.card-block-dark {
+	background-color: #3a2921;
+}
+
+.card-block-dark:hover {
+	background-color: #fbfaf8;
+	-o-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	-ms-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	transition: background 0.3s linear 0s, color 0.3s linear 0s;
+}
+
+.card-text {
+	color: #d1c0ac;
+}
+
+.project-card-p {
+	color: #8a8b8d;
+}
+

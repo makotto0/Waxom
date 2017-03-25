@@ -1,0 +1,54 @@
+.posts-top {
+	margin-top: 2rem;
+	margin-bottom: 3rem;
+	color: #8a8b8d;
+
+	.posts-top-h {
+		color: #555555;
+	}
+}
+
+.posts-btn {
+	background-color: transparent;
+	color: #c7b299;
+	border-color: transparent;
+}
+
+.posts-btn:hover {
+	background-color: #c7b299;
+	border-color: transparent;
+	color: #fff;
+	-o-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	-ms-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	transition: background 0.3s linear 0s, color 0.3s linear 0s;
+}
+
+.posts-bottom {
+	margin-bottom: 3rem;
+}
+
+.card-block-dark-item1 {
+	color: #c7b299;
+}
+
+.card-block-dark-item2 {
+	color: #8a8b8d;
+}
+
+.posts-btn-dark {
+	background-color: transparent;
+	color: #c7b299;
+	border-color: transparent;
+}
+
+.posts-btn-dark:hover {
+	background-color: #c7b299;
+	border-color: transparent;
+	color: #fff;
+	-o-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	-ms-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	transition: background 0.3s linear 0s, color 0.3s linear 0s;
+}
+
+
+/*  #8a8b8d gray for the font  */

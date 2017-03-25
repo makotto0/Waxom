@@ -1,0 +1,25 @@
+.counters {
+  height: 100%;
+  width: 100%;
+  background-image: url("../img/purchase.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  .counters-img {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .counters-h {
+    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+    color: #555555;
+  }
+
+  .counters-p {
+    color: #c7b299;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+  }
+}

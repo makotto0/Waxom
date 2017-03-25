@@ -1,0 +1,29 @@
+.iphone-con {
+	padding-top: 2rem;
+
+
+	.iphone-h {
+		padding-bottom: 2rem;
+		color: #555555;
+	}
+
+	.iphone-p {
+		padding-bottom: 2rem;
+		color: #8a8b8d;
+	}
+
+	.iphone-p-right {
+		color: #8a8b8d;
+		float: right;
+
+		.iphone-icon {
+			color: #ffffff;
+			font-size: 1rem !important;
+			background-color: #998675;
+			border-radius: 100%;
+			padding: 0.4rem;
+			margin-right: 0.5rem;
+		}
+	}
+
+}

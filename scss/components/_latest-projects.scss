@@ -1,0 +1,65 @@
+/* Latest projects buttons and text */
+
+.project-h {
+	color: #555555;
+	text-align: center;
+	margin-top: 3rem;
+} 
+
+.project-p {
+	color: #8a8b8d;
+	text-align: center;
+	margin-top: 1rem;
+}
+
+.btn-card-top-all {
+	color: #fff;
+	border-color: #998675;
+	background-color: #998675;
+	margin-top: 2rem;
+
+
+}
+
+.btn-card-top-all:hover {
+	color: #998675;
+	border-color: #998675;
+	background-color: #fff;
+	-o-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	-ms-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	transition: background 0.3s linear 0s, color 0.3s linear 0s;
+}
+
+.btn-card-top {
+	color: #998675;
+	border-color: #998675;
+	background-color: transparent;
+	margin-top: 2rem;
+}
+
+.btn-card-top:hover {
+	color: #fff;
+	background-color: #998675;
+	-o-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	-ms-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	transition: background 0.3s linear 0s, color 0.3s linear 0s;
+}
+
+.btn-card-bottom {
+	color: #fff;
+	background-color: #998675;
+	border-color: #998675;
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+
+.btn-card-bottom:hover {
+	color: #998675;
+	border-color: #998675;
+	background-color: #fff;
+	-o-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	-ms-transition: background 0.3s linear 0s, color 0.3s linear 0s;
+	transition: background 0.3s linear 0s, color 0.3s linear 0s;
+}
+
+
